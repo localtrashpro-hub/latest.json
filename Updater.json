@@ -1,0 +1,18 @@
+{
+  "application_viewer": {
+    "version": "6.0",
+    "download": "https://yourwebsite.com/downloads/application-viewer-6.0.exe"
+  },
+  "source_formatter": {
+    "version": "6.0",
+    "download": "https://yourwebsite.com/downloads/source-formatter-6.0.exe"
+  },
+  "file_sorter": {
+    "version": "6.1",
+    "download": "https://yourwebsite.com/downloads/file-sorter-6.1.exe"
+  },
+  "quick_notes": {
+    "version": "6.0",
+    "download": "https://yourwebsite.com/downloads/quick-notes-6.0.exe"
+  }
+}
